@@ -1,0 +1,21 @@
+TIME OUT
+{
+  "args": {}, 
+  "data": "", 
+  "files": {}, 
+  "form": {
+    "name": "Xianghao"
+  }, 
+  "headers": {
+    "Accept-Encoding": "identity", 
+    "Content-Length": "13", 
+    "Content-Type": "application/x-www-form-urlencoded", 
+    "Host": "httpbin.org", 
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36", 
+    "X-Amzn-Trace-Id": "Root=1-5ffc57f5-2d5996fa6a7337992ebffe8c"
+  }, 
+  "json": null, 
+  "origin": "101.31.121.142", 
+  "url": "http://httpbin.org/post"
+}
+

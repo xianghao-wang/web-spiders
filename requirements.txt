@@ -1,0 +1,7 @@
+requests
+wheel
+selenium
+lxml
+beautifulsoup4
+pyquery
+aiohttp
